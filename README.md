@@ -1,0 +1,2 @@
+# sdsqlite
+sqlite for bjsdwl
