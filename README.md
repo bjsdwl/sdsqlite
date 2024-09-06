@@ -5,7 +5,7 @@ NOTE: sdsqlite for bjsdwl commlibs library, DO NOT DELETE IT!
 ## 1. 下载地址：
 https://www.sqlite.org/2024/sqlite-autoconf-3460100.tar.gz
 
-## 2. 编译过程：
+## 2. 编译静态库：
 ```c
 打开 x64 Native Tools Command Prompt for VS 2022 控制台:
 
